@@ -1,0 +1,4 @@
+{
+  "name": "git-rev-sync",
+  "main": "git-rev-sync.d.ts"
+}
